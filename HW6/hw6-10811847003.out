@@ -1,0 +1,12 @@
+Microsoft Windows [版本 10.0.17763.864]
+(c) 2018 Microsoft Corporation. 著作權所有，並保留一切權利。
+
+C:\Users\楊庭軒>C:\Users\楊庭軒\Desktop\隨班附讀檔案\資料結構\上機作業\CPP\homework\hw6\hw6-10811847003.exe < C:\Users\ 楊庭軒\Desktop\隨班附讀檔案\資料結構\上機作業\CPP\homework\hw6\hw6.in
+node:    4   7   8  10  11  12
+left:    0   4   0   7   0  11
+right:   0   8   0  12   0   0
+node:    4   5   9
+left:    0   0   4
+right:   5   0   0
+
+C:\Users\楊庭軒>
